@@ -1,0 +1,3 @@
+[submodule "Unity-Arduino_controller"]
+	path = Unity-Arduino_controller
+	url = https://github.com/AHarmlessPyro/Unity-Arduino_controller
